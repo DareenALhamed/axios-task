@@ -1,0 +1,31 @@
+.details .row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  background-color: rgb(242, 225, 242);
+  text-align: center;
+  padding: 20px;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.details img {
+  border-radius: 20px;
+}
+.details .title {
+    font-size: 40px;
+}
+.details .description{
+    font-size: 25px;
+}
+.details .price {background-color: rgb(237, 163, 163);
+border-radius: 15px;
+font-size: 25px;
+width: 15%;
+color: brown;
+align-items: center;}
+.details .imgDetails {
+  border: solid 1px;
+  padding: 20px;
+  border-radius: 15px;
+}
